@@ -1,0 +1,19 @@
+# Setup
+language: zh-CN
+title: 熱辣漫畫資源收集站
+tagline: 熱辣漫畫資源站，主要收集熱辣漫畫相關資源
+show_downloads: "true"
+
+github:
+  web_site: https://www.manga2022.com
+
+# Build settings
+theme: jekyll-theme-cayman
+permalink: /404.html
+
+# plugins
+plugins:
+  - "jekyll-github-metadata"
+
+#Others
+markdown: kramdown
